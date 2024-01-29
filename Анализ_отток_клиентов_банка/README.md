@@ -25,6 +25,9 @@
 * Pandas
 * Ploty
 * Seaborn
+* Matplotlib
+* Scipy
+
 
 ## Статус проекта
 Завершен.
